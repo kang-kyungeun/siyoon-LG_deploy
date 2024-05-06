@@ -7,17 +7,15 @@ Original file is located at
     https://colab.research.google.com/drive/13tQm-mgql73ZjtSM5XhrEVluseqRmNfl
 """
 
+pip install requests
+pip install responses
+pip install googlemaps
+
 import requests
 import json
 import requests
 import time
-
 import googlemaps
-
-pip install requests
-pip install responses
-
-!pip install googlemaps
 
 def get_weather():
     city = "Seoul"
