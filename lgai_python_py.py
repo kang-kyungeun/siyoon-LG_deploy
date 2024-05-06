@@ -14,7 +14,7 @@ import time
 
 import googlemaps
 
-!pip install requests
+
 !pip install responses
 
 !pip install googlemaps
