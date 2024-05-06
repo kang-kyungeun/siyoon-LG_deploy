@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/13tQm-mgql73ZjtSM5XhrEVluseqRmNfl
 """
 
-pip install requests
-pip install responses
-pip install googlemaps
+install requests
+install responses
+install googlemaps
 
 import requests
 import json
